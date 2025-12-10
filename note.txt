@@ -1,0 +1,34 @@
+project_name = 
+goal = 
+requirement = 
+status = 
+
+
+5 time check 
+
+ === hide ===
+    
+ gallery->....
+ memory->..........
+ quotes->...........
+ ressearch->.......
+ slideshow->........
+ videos->....
+
+ === main ===
+ birthday-> ........... 
+ index-> ............ w
+ login->..........
+
+
+Phone/Email
+Telegram=>  Direct Message input
+Google Map => show me . address
+
+          <link rel="icon" href="../accets/images/fav/img4.jpg " type="image/png" sizes="16x16" />
+
+           <img src="../accets/images/fav/img4.jpg" class="rounded-circle" width="30" height="30" alt="user">
+
+
+
+
